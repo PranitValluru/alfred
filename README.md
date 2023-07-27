@@ -1,0 +1,2 @@
+# alfred
+Slack to SQL
